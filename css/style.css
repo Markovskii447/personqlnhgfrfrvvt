@@ -1,0 +1,27 @@
+/* Приветствие с рукописным шрифтом */
+.welcome-text {
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* Оформление корзины */
+.cart-content {
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 15px;
+}
+
+/* Подвал */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-text {
+    font-size: 0.9rem;
+}
+
