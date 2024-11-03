@@ -21,7 +21,12 @@ footer {
     padding: 20px 0;
 }
 
-.footer-text {
+.footer-text
+{
     font-size: 0.9rem;
 }
-
+.product{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}

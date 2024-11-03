@@ -8,7 +8,7 @@ function getProductHtml(product) {
         <div class="col-md-4 mb-4">
             <div class="card h-100">
                 <img src="${product.image}" class="card-img-top" alt="${product.title}">
-                <div class="card-body">
+                <div class="card-body product">
                     <h5 class="card-title">${product.title}</h5>
                     <p class="card-text">${product.description}</p>
                     <p class="text-muted font-weight-bold">${priceInUAH} ₴</p>
